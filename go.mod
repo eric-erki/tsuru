@@ -38,7 +38,7 @@ require (
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.7.0
 	github.com/gorilla/pat v0.0.0-20131205071617-ae2e162c4b2a // indirect
-	github.com/gorilla/websocket v1.4.0
+	github.com/gorilla/websocket v1.4.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
 	github.com/hashicorp/go-version v0.0.0-20160519212729-0181db470237
 	github.com/heptio/authenticator v0.3.0 // indirect

@@ -282,7 +282,7 @@ github.com/gorilla/context
 github.com/gorilla/mux
 # github.com/gorilla/pat v0.0.0-20131205071617-ae2e162c4b2a
 github.com/gorilla/pat
-# github.com/gorilla/websocket v1.4.0
+# github.com/gorilla/websocket v1.4.1
 github.com/gorilla/websocket
 # github.com/hashicorp/go-version v0.0.0-20160519212729-0181db470237
 github.com/hashicorp/go-version
